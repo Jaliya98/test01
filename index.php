@@ -48,13 +48,13 @@
                     </div>
                 </div>
                 <div class="disaster-col">
-                    <img src="Hpics/H002.jpg" >
+                    <img src="homepic/H002.jpg" >
                     <div class="layer">
                         <a href="https://www.aljazeera.com/where/afghanistan/"><h3>Package-02</h3></a>
                     </div>
                 </div>
                 <div class="disaster-col">
-                    <img src="Hpics/H003.jpg" >
+                    <img src="homepic/H003.jpg" >
                     <div class="layer">
                         <a href="https://www.srilankaview.com/weather.htm"></a><h3>Package-03</h3></a>
                     </div>
@@ -92,17 +92,17 @@
         
             <div class="row">
                 <div class="news-col">
-                    <img src="Hpics/H04.jpg" >
+                    <img src="homepic/H04.jpg" >
                     <h3>Coronavirus Relief</h3>
                     <p>Support coronavirus relief efforts led by doNation vetted nonprofit partners.</p>
                 </div>
                 <div class="news-col">
-                    <img src="Hpics/H05.jpg" >
+                    <img src="homepic/H05.jpg" >
                     <h3>We're Hiring</h3>
                     <p>Join our amazing team and help people around the world.</p>
                 </div>
                 <div class="news-col">
-                    <img src="Hpics/H06.jpg" >
+                    <img src="homepic/H06.jpg" >
                     <h3>Wear Right Mask</h3>
                     <p>The doNation site is running a campaign these days about putting on the right mask.</p>
                 </div>
