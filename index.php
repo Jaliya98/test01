@@ -16,7 +16,7 @@
         <!-------Headsection------>        
         <section class="header">
             <nav>
-                <a href="index.html"><img src="homepic/Hlogo1.png" ></a>
+                <a href="index.html"><img src="" ></a>
                 <div class="nav-links" Id="navLinks"> 
                     <i class="fa fa-times" onclick="hideMenu()"></i>
                     <ul>
