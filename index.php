@@ -22,7 +22,7 @@
                     <ul>
                         <li><a href="index.html">Home</a></li>
                         <li><a href="about/about.html">About</a></li>
-                        <li><a href="Contact us.html">Contact</a></li>
+                        <li><a href="contact/contact.html">Contact</a></li>
                         <li><a href="">Profile</a></li>
                         <li><a href="">Sign Up</a></li>
                     </ul>
@@ -125,8 +125,8 @@
 			<ul>
 				<li><a href="index.html">Home</a></li>
 				<li><a href="#">Events</a></li>
-				<li><a href="About us.html">About Us</a></li>
-				<li><a href="Contact us.html">Contact Us</a></li>
+				<li><a href="about/about.html">About Us</a></li>
+				<li><a href="contact/contact.html">Contact Us</a></li>
 			</ul>
 			
 		
