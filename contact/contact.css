@@ -14,7 +14,7 @@
 	height:700px;
 	width:100%;
 	background-size:cover;
-	background-image: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.2)),url("contactus-img/contact us.jpg");
+	background-image: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.2)),url("contactpic/contactus.jpg");
 }
 #h1
 {
@@ -53,7 +53,7 @@
 }
 #pov
 {
-	background-image: url("contactus-img/pov.jpg"); 
+	background-image: url("contactpic/pov.jpg"); 
 	height: 100%; 
 	width: 100%; 
 	background-size:cover;
@@ -121,7 +121,7 @@
 }
 #sb
 {
-	background-image: url("contactus-img/sb.jpg"); 
+	background-image: url("contactpic/sb.jpg"); 
 	height: 100%; 
 	width: 100%; 
 	background-size:cover;
