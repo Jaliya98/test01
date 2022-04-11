@@ -21,7 +21,7 @@
                     <i class="fa fa-times" onclick="hideMenu()"></i>
                     <ul>
                         <li><a href="index.html">Home</a></li>
-                        <li><a href="About us.html">About</a></li>
+                        <li><a href="about/about.html">About</a></li>
                         <li><a href="Contact us.html">Contact</a></li>
                         <li><a href="">Profile</a></li>
                         <li><a href="">Sign Up</a></li>
