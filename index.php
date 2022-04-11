@@ -42,7 +42,7 @@
 
             <div class="row">
                 <div class="disaster-col">
-                    <img src="Hpics/H001.jpg" >
+                    <img src="homepic/H001.jpg" >
                     <div class="layer">
                     <a href="https://hpb.health.gov.lk/covid19-dashboard/"> <h3>Package-01</h3></a>
                     </div>
