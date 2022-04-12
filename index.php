@@ -44,19 +44,19 @@
 
             <div class="row">
                 <div class="disaster-col">
-                    <img src="homepic/H01.jpg" >
+                    <img src="homepic/H001.jpg" >
                     <div class="layer">
                     <a href> <h3>Package-01</h3></a>
                     </div>
                 </div>
                 <div class="disaster-col">
-                    <img src="homepic/H02.jpg" >
+                    <img src="homepic/H002.jpg" >
                     <div class="layer">
                         <a href=><h3>Package-02</h3></a>
                     </div>
                 </div>
                 <div class="disaster-col">
-                    <img src="homepic/H03.jpg" >
+                    <img src="homepic/H003.jpg" >
                     <div class="layer">
                         <a href=></a><h3>Package-03</h3></a>
                     </div>
