@@ -125,7 +125,7 @@
 			<h2>About Us</h2>
 			<p></p>
 			<h2>Contact us</h2>
-			<p class="email-id">donations.g03@gmail.com</p>
+            <a href="mailto:mrhrsolutions@gmail.com"><i id="i" class="fas fa-envelope">&nbsp;&nbsp;&nbsp;&nbsp;mrhrsolutions@gmail.com</i></a>
 		</div>
 		<div class="col">
 			<h3>Our Details</h3>
