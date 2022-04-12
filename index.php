@@ -108,6 +108,13 @@
                     <p>The doNation site is running a campaign these days about putting on the right mask.</p>
                 </div>
             </div>
+            <br>
+            <div class="news-col">
+                    <h3>Send Your choice</h3>
+                    <p>Select your package,compare package and mail us</p>
+                    <a href="mailto:mrhrsolutions@gmail.com"><i id="i" class="fas fa-envelope">&nbsp;&nbsp;&nbsp;&nbsp;mrhrsolutions@gmail.com</i></a>
+                </div>
+            
         
         </section>
         <!-----------Footer------------>
