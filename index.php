@@ -17,16 +17,13 @@
 <!-------Headsection------>        
         <section class="header">
             <nav>
-                <a href="index.html"><img src="Hpics/Hlogo.png" ></a>
+                <a href="index.html"><img src="homepic/Hlogo1.png" ></a>
                 <div class="nav-links" Id="navLinks"> 
                     <i class="fa fa-times" onclick="hideMenu()"></i>
                     <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="">Products</a></li>
-                        <li><a href="">Events</a></li>
-                        <li><a href="About us.html">About</a></li>
-                        <li><a href="Contact us.html">Contact</a></li>
-                        <li><a href="">Donate</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about/about.html">About</a></li>
+                        <li><a href="contact/contact.html">Contact</a></li>
                     </ul>
                 </div>
                 <i class="fa  fa-bars"  onclick="showMenu()"></i>
@@ -69,19 +66,19 @@
 
             <div class="row">
                 <div class="disaster-col">
-                    <img src="Hpics/H01.jpg" >
+                    <img src="homepic/H01.jpg" >
                     <div class="layer">
                     <a href="https://hpb.health.gov.lk/covid19-dashboard/"> <h3>Sri Lanka Covid-19 Situation</h3></a>
                     </div>
                 </div>
                 <div class="disaster-col">
-                    <img src="Hpics/H02.jpg" >
+                    <img src="homepic/H02.jpg" >
                     <div class="layer">
                         <a href="https://www.aljazeera.com/where/afghanistan/"><h3>Afghanistan Emaergency Fund</h3></a>
                     </div>
                 </div>
                 <div class="disaster-col">
-                    <img src="Hpics/H03.jpg" >
+                    <img src="homepic/H03.jpg" >
                     <div class="layer">
                         <a href="https://www.srilankaview.com/weather.htm"></a><h3>Sri Lanka Wheather</h3></a>
                     </div>
