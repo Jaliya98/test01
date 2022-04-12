@@ -29,8 +29,9 @@
                 <i class="fa  fa-bars"  onclick="showMenu()"></i>
             </nav>
                 <div class="text-box">
-                    <h1>World's Biggest Donetion Platform</h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, <br>when an unknown printer took a galley</p>
+                    <h1>MR.HR</h1>
+                    <h3>SOLUTIONS</h3>
+                    <p>THE WAY TO SUCCESS WITH HR</p>
                     <a href="" class="hero-btn">Visit Us to know more</a>
                     
                 </div>
@@ -38,26 +39,26 @@
 
 <!--------------Disaster Recovery------------>
         <section class="disaster">  
-            <h1>Disaster Recovery</h1>
-            <p>doNation makes it easy to donate to trusted, locally driven disaster relief and recovery efforts around the world.</p>
+            <h1>Explore Our Package</h1>
+            <p></p>
 
             <div class="row">
                 <div class="disaster-col">
                     <img src="homepic/H01.jpg" >
                     <div class="layer">
-                    <a href="https://hpb.health.gov.lk/covid19-dashboard/"> <h3>Sri Lanka Covid-19 Situation</h3></a>
+                    <a href> <h3>Package-01</h3></a>
                     </div>
                 </div>
                 <div class="disaster-col">
                     <img src="homepic/H02.jpg" >
                     <div class="layer">
-                        <a href="https://www.aljazeera.com/where/afghanistan/"><h3>Afghanistan Emaergency Fund</h3></a>
+                        <a href=><h3>Package-02</h3></a>
                     </div>
                 </div>
                 <div class="disaster-col">
                     <img src="homepic/H03.jpg" >
                     <div class="layer">
-                        <a href="https://www.srilankaview.com/weather.htm"></a><h3>Sri Lanka Wheather</h3></a>
+                        <a href=></a><h3>Package-03</h3></a>
                     </div>
                 </div>
 
@@ -67,25 +68,22 @@
         <!----------How It WORKS------------->
   
         <section class="how">
-            <h1>How It Works</h1>
+            <h1>Compare Packages</h1>
             
 
             <div class="row">
                 <div class="how-col">
-                    <h3>NONPROFITS</h3>
-                    <p>Nonprofits around the world apply and join doNation to access more funding, to build new skills, and make important connections
-                    </p>
+                    <h3>Basic</h3>
+                    <p>$5</p>
             </div>
 
                 <div class="how-col">
-                    <h3>DONORS</h3>
-                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
-                    </p>
+                    <h3>Standard</h3>
+                    <p>$10</p>
                 </div>
                 <div class="how-col">
-                    <h3>OUR IMPACT</h3>
-                    <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
-                    </p>
+                    <h3>Premium</h3>
+                    <p>$20</p>
                 </div>	
         </section>
 
@@ -116,21 +114,18 @@
 <footer>
 	<div class="row">
 		<div class="col">
-			<img src="Hpics/Hlogo.png" class="logo">
+			<img src="homepic/Hlogo.png" class="logo">
 			<h2>About Us</h2>
-			<p>Donations is made in order to help reduce poverty in the world.<br> So work with us to make a difference.</p>
+			<p></p>
 			<h2>Contact us</h2>
 			<p class="email-id">donations.g03@gmail.com</p>
 		</div>
 		<div class="col">
 			<h3>Our Details</h3>
 			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="#">Product</a></li>
-				<li><a href="#">Events</a></li>
-				<li><a href="About us.html">About Us</a></li>
-				<li><a href="Contact us.html">Contact Us</a></li>
-				<li><a href="#">Donate</a></li>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="about/about.html">About Us</a></li>
+				<li><a href="contact/contact.html">Contact Us</a></li>
 			</ul>
 			
 		
@@ -138,12 +133,7 @@
 		<div class="col">
 			<h3>Our Partners</h3>
 			<ul>
-				<li><a href="#">Aalya</a></li>
-				<li><a href="#">eWorld</a></li>
-				<li><a href="#">Collab</a></li>
-				<li><a href="#">Felixa</a></li>
-				<li><a href="#">Tomblyrive</a></li>
-				<li><a href="#">Malarvi</a></li>
+				<li><a href="#">J.M.B.Ideas</a></li>
 			</ul>
 			
 		
@@ -156,7 +146,7 @@
 				<button type="submit"><i class="fas fa-arrow-right"></i></button>
 			</form>
 			<div class="social-icons">
-				<a href="https://www.facebook.com/Donations-102087662222457"><i class="fab fa-facebook-f"></i></a>
+				<a href="https://www.facebook.com/mrhrsolutions.lk/?ref=pages_you_manage"><i class="fab fa-facebook-f"></i></a>
 				<a href="https://twitter.com/Donatio66123075"><i class="fab fa-twitter"></i></a>
 				<a href="https://www.instagram.com/donationgrp03/?utm_medium=copy_link"><i class="fab fa-instagram"></i></a>
 				<a href="https://www.linkedin.com/feed/?trk=onboarding-landing"><i class="fab fa-linkedin"></i></a>
@@ -165,7 +155,7 @@
 	
 	</div>
 	<hr>
-	<p class="copyright">Copyright © 2021 <a href="#">donations</a>. All rights reserved</p>
+	<p class="copyright">Copyright © 2022 <a href="#">J.M.B.Ideas</a>. All rights reserved</p>
 </footer>
 <!------------JavaScript for Toggle Menu------------->
 <script>
