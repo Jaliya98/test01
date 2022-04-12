@@ -121,7 +121,7 @@
 <footer>
 	<div class="row">
 		<div class="col">
-			<img src="homepic/Hlogo.png" class="logo">
+			<img src="homepic/Hlogo1.png" class="logo">
 			<h2>About Us</h2>
 			<p></p>
 			<h2>Contact us</h2>
